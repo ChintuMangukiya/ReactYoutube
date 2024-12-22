@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+
+
+
+.parcel-cache/
+
+
+# Build output
+build/
+
+# Intermediate build files
+dist/
+
+# Temporary files and logs
+*.log
+*.gz
+*.tmp
+*.cache
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing
+coverage/
+jest.config.js
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Yarn integrity file
+.yarn-integrity
+
+# Package-lock files
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+*.swp
+*.swo
+*~
